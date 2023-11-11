@@ -1,4 +1,4 @@
-﻿# Rocketseat_Ignite_Pomodoro
+﻿# Pomodoro
 
 ![image](https://github.com/GabrielRioo/Rocketseat_Ignite_Pomodoro/assets/61875527/da8d742f-6b2f-4a31-aee5-04c068dca97a)
 
